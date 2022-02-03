@@ -15,10 +15,11 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 
-
+<!-- 
 # :infinity: *Github Stats*
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=hamzahoda&theme=dark"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahoda&theme=dark"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahoda&theme=dark"><br>
 </div>
+ -->

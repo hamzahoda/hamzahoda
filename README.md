@@ -17,7 +17,7 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzahoda&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamzahoda&theme=highcontrast&border_radius=7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzahoda&theme=highcontrast&border_radius=7)](https://github.com/hamzahoda)
 
 
 [![@hamzahoda's Holopin badges](https://holopin.me/hamzahoda)](https://holopin.io/@hamzahoda)

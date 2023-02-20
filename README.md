@@ -15,8 +15,9 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzahoda&theme=github_dark)[![GitHub Streak](https://streak-stats.demolab.com?user=hamzahoda&theme=highcontrast)](https://git.io/streak-stats)
+![Stats][![GitHub Streak](https://streak-stats.demolab.com?user=hamzahoda&theme=highcontrast)](https://git.io/streak-stats)
 
+|[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzahoda&theme=github_dark)](https://github.com/hamzahoda/)|[![GitHub Streak](https://streak-stats.demolab.com?user=hamzahoda&theme=highcontrast&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/hamzahoda/)
 
 
 [![@hamzahoda's Holopin badges](https://holopin.me/hamzahoda)](https://holopin.io/@hamzahoda)
